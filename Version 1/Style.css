@@ -1,0 +1,27 @@
+﻿body
+{
+	background-color: #646464;
+	font-family: courier new;
+	font-size: 16px;
+}
+
+tel
+{
+	font-family: courier new;
+}
+
+h1
+{
+	font-size: 20px;
+	text-align: center;
+}
+table
+{
+    border-collapse: collapse;
+	text-align: center;
+	font-family: courier new;
+}
+td
+{
+	border: 5px solid black;
+}
