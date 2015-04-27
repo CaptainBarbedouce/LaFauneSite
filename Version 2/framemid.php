@@ -6,10 +6,10 @@
 	<body>
 		<p>Nos produits</p>
 		<br/>
-		<a href="../Version 2/carnivores.php" target="droite">Carnivores</a><br/>
-		<a href="../Version 2/paysages.php" target="droite">Paysages</a><br/>
-		<a href="../Version 2/oiseaux.php" target="droite">Oiseaux</a><br/>
-		<a href="../Version 2/autres.php" target="droite">Autres mammifères</a><br/>
+		<a href="../Version 2/listePdt.php?categ=f" target="droite">Carnivores</a><br/>
+		<a href="../Version 2/listePdt.php?categ=p" target="droite">Paysages</a><br/>
+		<a href="../Version 2/listePdt.php?categ=w" target="droite">Oiseaux</a><br/>
+		<a href="../Version 2/listePdt.php?categ=m" target="droite">Autres mammifères</a><br/>
 	</body>
 </html>
 
